@@ -204,6 +204,7 @@ Welcome to the awesome web development resources list! This repository aims to p
 
 - [TypeScript Handbook](https://www.typescriptlang.org/docs/handbook/intro.html) - A comprehensive guide to TypeScript by Microsoft.
 - [TypeScript Deep Dive](https://basarat.gitbook.io/typescript/) - A book that dives deep into TypeScript.
+- [The Concise TypeScript Book](https://github.com/gibbok/typescript-book) - A free and open-source TypeScript book, covering everything from fundamentals to advanced concepts.
 
 ### React
 
