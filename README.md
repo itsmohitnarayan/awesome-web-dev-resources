@@ -402,6 +402,7 @@ Welcome to the awesome web development resources list! This repository aims to p
 - [Vercel](https://vercel.com/) - Deploy web projects with the best frontend developer experience and highest end-user performance.
 - [Heroku](https://www.heroku.com/) - Platform as a service (PaaS) that enables developers to build, run, and operate applications entirely in the cloud.
 - [Coolify](https://coolify.io/) - A Open-Source Cheap Alternative to Web hosting.
+- [Shipvela](https://shipvela.com/) - Host React, Vite and static websites from GitHub or a CLI, with custom domains and managed HTTPS.
 
 ## Learning Platforms
 
