@@ -299,6 +299,7 @@ Welcome to the awesome web development resources list! This repository aims to p
 - [Postman](https://www.postman.com/) - A collaboration platform for API development.
 - [Swagger](https://swagger.io/) - Simplify API development for users, teams, and enterprises with the Swagger open source and professional toolset.
 - [RapidAPI](https://rapidapi.com/) - Find and connect to thousands of APIs.
+- [CurlShot](https://curlshot.com/) - Screenshot API that turns a URL or raw HTML into PNG, JPEG, WebP or PDF over a single HTTP request, with a free plan.
 
 ## Databases
 
