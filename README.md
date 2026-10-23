@@ -404,6 +404,7 @@ Welcome to the awesome web development resources list! This repository aims to p
 - [Heroku](https://www.heroku.com/) - Platform as a service (PaaS) that enables developers to build, run, and operate applications entirely in the cloud.
 - [Coolify](https://coolify.io/) - A Open-Source Cheap Alternative to Web hosting.
 - [Shipvela](https://shipvela.com/) - Host React, Vite and static websites from GitHub or a CLI, with custom domains and managed HTTPS.
+- [deed.page](https://deed.page/) - Static hosting built for AI agents: publish a page with one HTTP PUT or an MCP call and get a live `<slug>.deed.page` URL, no signup on the free plan.
 
 ## Learning Platforms
 
