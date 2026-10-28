@@ -138,6 +138,7 @@ Welcome to the awesome web development resources list! This repository aims to p
 - [Iconshock](https://www.iconshock.com/) - The biggest icon pack with over 2 million professional icons in +400 icon sets with more than 30 design styles: material, flat, 3d, realistic, iOS, and more.
 - [Bootstrap Icons](https://icons.getbootstrap.com) - Official open source SVG icon library for Bootstrap.
 - [Fontisto Icons](https://www.fontisto.com) - Fontisto is an extensive collection of web icons for web designers and developers.
+- [APPLORE App Icon Generator](https://applore.app/app-icon-generator) - Export favicon, PWA, iOS and Android icon sizes from one image, free in the browser.
 
 ## Online Compilers & IDE
 - [CodeVania](https://codevania.com/)
