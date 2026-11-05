@@ -58,6 +58,7 @@ Welcome to the awesome web development resources list! This repository aims to p
 - [DevProjects](https://www.codementor.io/projects/html_css) - Practice your coding skills with free HTML/CSS projects. Projects vary from beginner to advanced level.
 - [WebPlatform](https://webplatform.github.io/) - A discontinued but valuable resource for web developers.
 - [Smashing Magazine](https://www.smashingmagazine.com/) - An online magazine for professional web designers and developers.
+- [WebCheatSheet](https://webcheatsheet.com/) - Free web-development tutorials, code examples, and reference articles covering PHP, JavaScript, HTML, and SQL.
 
 ## Roadmaps
 
